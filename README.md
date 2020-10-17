@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Front end | UI/UX | DSA**
+- 💬 Ask me about **Front end | UI/UX | DSA | Back end**
 
 - 📫 How to reach me **praharsh535@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1oed7zo6tZhPPVwa2wP2KRe7Gl0rlGm1BWg74Ejn8m8Y/edit?usp=sharing](https://docs.google.com/document/d/1oed7zo6tZhPPVwa2wP2KRe7Gl0rlGm1BWg74Ejn8m8Y/edit?usp=sharing)
+- 📄 My Resume [https://rb.gy/ibrgij](https://rb.gy/ibrgij)
 
 - ⚡ Fun fact **Probably coding | gaming | sleeping right now ☺**
 
