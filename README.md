@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praharshs&label=Profile%20views&color=0e75b6&style=flat" alt="praharshs" /> </p>
 
-- 🔭 I’m currently working on [Goku Bot](https://github.com/GokuBot)
+
 
 - 🌱 I’m currently learning **Full Stack Development**
 
@@ -13,7 +13,7 @@
 
 - 📄 My Resume [https://rb.gy/ibrgij](https://rb.gy/ibrgij)
 
-- ⚡ Fun fact **Probably coding | gaming | sleeping right now ☺**
+- ⚡ Fun fact -> **Probably coding | gaming | sleeping right now ☺**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
